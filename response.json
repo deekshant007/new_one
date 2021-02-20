@@ -1,4 +1,11 @@
 {
 "DG": "Test",
-"Data Glacier": "Cricket"
+"Data Glacier": "Cricket",
+"Deekshant Nandeshwar": "Football",
+"Deekshant Nandeshwar ": "Football",
+"Deekshant ": "football",
+"deekshant nandeshwar": "football",
+"deekshant ": "football",
+"deekshant": "football",
+"Deekshant": "football"
 }
